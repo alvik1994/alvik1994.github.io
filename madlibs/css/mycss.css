@@ -57,6 +57,9 @@ main {
 .visible{
     visibility: visible;
 }
+.not-visible{
+    display: none;
+}
 .text-center{
     text-align: center;
 }

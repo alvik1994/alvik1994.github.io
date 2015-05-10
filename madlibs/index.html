@@ -97,16 +97,33 @@
                 $target = $target.substring(1, $target.length);
                 jq('ul.tabs').tabs('select_tab', $target);
             });
+            jq('generate').on('click',function(e){
+                e.preventDefault();
+                jq('number').hide();
+            });
         });
     </script>
 
     <script>
         angular.module("app", ['ngRoute'])
             .controller('StoryCtrl',['$scope',function($scope){
+//                $scope.load = function() {
+//                    jq('.generate').on('click',function(){
+//                        console.log(jq('.validate'));
+//                        jq('.validate').each(function(){
+//                            if (jq(this).val().length == 0){
+//
+//                            }
+//                        });
+//                    });
+//                };
                 $scope.activetext=false;
+                $scope.numbersHidden=false;
                 $scope.makeActiveText = function (){
                     $scope.activetext=true;
-                }
+                    $scope.numbersHidden=true;
+                };
+//                $scope.load();
             }])
             .config(function($routeProvider){
                 $routeProvider
