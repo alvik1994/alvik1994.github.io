@@ -4,56 +4,17 @@
     <list default="true" id="4d1a19e3-ece5-4bfb-b2b6-6749d39e5003" name="Default" comment="">
       <change type="DELETED" beforePath="C:\Users\Alvi\Documents\alvik1994.github.io\LICENSE" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\Alvi\Documents\alvik1994.github.io\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Alvi\Documents\alvik1994.github.io\css\bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Alvi\Documents\alvik1994.github.io\css\bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Alvi\Documents\alvik1994.github.io\css\materialize.min.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Alvi\Documents\alvik1994.github.io\css\mycss.css" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\Alvi\Documents\alvik1994.github.io\home.html" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\Alvi\Documents\alvik1994.github.io\images\paper.png" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\Alvi\Documents\alvik1994.github.io\images\paper2.png" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\Alvi\Documents\alvik1994.github.io\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Alvi\Documents\alvik1994.github.io\materialize-v0.96.1\materialize\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Alvi\Documents\alvik1994.github.io\materialize-v0.96.1\materialize\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Alvi\Documents\alvik1994.github.io\materialize-v0.96.1\materialize\css\materialize.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Alvi\Documents\alvik1994.github.io\materialize-v0.96.1\materialize\css\materialize.min.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Alvi\Documents\alvik1994.github.io\materialize-v0.96.1\materialize\font\material-design-icons\LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Alvi\Documents\alvik1994.github.io\materialize-v0.96.1\materialize\font\material-design-icons\Material-Design-Icons.eot" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Alvi\Documents\alvik1994.github.io\materialize-v0.96.1\materialize\font\material-design-icons\Material-Design-Icons.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Alvi\Documents\alvik1994.github.io\materialize-v0.96.1\materialize\font\material-design-icons\Material-Design-Icons.ttf" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Alvi\Documents\alvik1994.github.io\materialize-v0.96.1\materialize\font\material-design-icons\Material-Design-Icons.woff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Alvi\Documents\alvik1994.github.io\materialize-v0.96.1\materialize\font\material-design-icons\Material-Design-Icons.woff2" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Alvi\Documents\alvik1994.github.io\materialize-v0.96.1\materialize\font\roboto\Roboto-Bold.ttf" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Alvi\Documents\alvik1994.github.io\materialize-v0.96.1\materialize\font\roboto\Roboto-Bold.woff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Alvi\Documents\alvik1994.github.io\materialize-v0.96.1\materialize\font\roboto\Roboto-Bold.woff2" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Alvi\Documents\alvik1994.github.io\materialize-v0.96.1\materialize\font\roboto\Roboto-Light.ttf" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Alvi\Documents\alvik1994.github.io\materialize-v0.96.1\materialize\font\roboto\Roboto-Light.woff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Alvi\Documents\alvik1994.github.io\materialize-v0.96.1\materialize\font\roboto\Roboto-Light.woff2" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Alvi\Documents\alvik1994.github.io\materialize-v0.96.1\materialize\font\roboto\Roboto-Medium.ttf" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Alvi\Documents\alvik1994.github.io\materialize-v0.96.1\materialize\font\roboto\Roboto-Medium.woff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Alvi\Documents\alvik1994.github.io\materialize-v0.96.1\materialize\font\roboto\Roboto-Medium.woff2" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Alvi\Documents\alvik1994.github.io\materialize-v0.96.1\materialize\font\roboto\Roboto-Regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Alvi\Documents\alvik1994.github.io\materialize-v0.96.1\materialize\font\roboto\Roboto-Regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Alvi\Documents\alvik1994.github.io\materialize-v0.96.1\materialize\font\roboto\Roboto-Regular.woff2" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Alvi\Documents\alvik1994.github.io\materialize-v0.96.1\materialize\font\roboto\Roboto-Thin.ttf" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Alvi\Documents\alvik1994.github.io\materialize-v0.96.1\materialize\font\roboto\Roboto-Thin.woff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Alvi\Documents\alvik1994.github.io\materialize-v0.96.1\materialize\font\roboto\Roboto-Thin.woff2" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Alvi\Documents\alvik1994.github.io\materialize-v0.96.1\materialize\js\materialize.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Alvi\Documents\alvik1994.github.io\materialize-v0.96.1\materialize\js\materialize.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Alvi\Documents\alvik1994.github.io\scripts\angular-route.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Alvi\Documents\alvik1994.github.io\scripts\angular.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Alvi\Documents\alvik1994.github.io\scripts\angular.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Alvi\Documents\alvik1994.github.io\scripts\bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Alvi\Documents\alvik1994.github.io\scripts\jquery-1.11.2.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Alvi\Documents\alvik1994.github.io\scripts\materialize.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Alvi\Documents\alvik1994.github.io\scripts\myjs.js" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\Alvi\Documents\alvik1994.github.io\story1.html" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\Alvi\Documents\alvik1994.github.io\story3.html" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\Alvi\Documents\alvik1994.github.io\story4.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/madlibs/index.html" afterPath="$PROJECT_DIR$/madlibs/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/madlibs/story1.html" afterPath="$PROJECT_DIR$/madlibs/story1.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/madlibs/story2.html" afterPath="$PROJECT_DIR$/madlibs/story2.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/madlibs/story3.html" afterPath="$PROJECT_DIR$/madlibs/story3.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/madlibs/story4.html" afterPath="$PROJECT_DIR$/madlibs/story4.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/madlibs/css/mycss.css" afterPath="$PROJECT_DIR$/madlibs/css/mycss.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/madlibs/scripts/myjs.js" afterPath="$PROJECT_DIR$/madlibs/scripts/myjs.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="alvik1994.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -81,8 +42,8 @@
       <file leaf-file-name="mycss.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/madlibs/css/mycss.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="790" max-vertical-offset="1326">
-              <caret line="49" column="8" selection-start-line="49" selection-start-column="8" selection-end-line="49" selection-end-column="8" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1394">
+              <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -91,9 +52,26 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/madlibs/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.45639536" vertical-offset="1186" max-vertical-offset="2669">
-              <caret line="79" column="38" selection-start-line="79" selection-start-column="38" selection-end-line="79" selection-end-column="38" />
-              <folding />
+            <state vertical-scroll-proportion="0.2797075" vertical-offset="0" max-vertical-offset="1513">
+              <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+              <folding>
+                <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#ul#0;n#div#0;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="myjs.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/madlibs/scripts/myjs.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1564">
+              <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -101,7 +79,7 @@
       <file leaf-file-name="story1.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/madlibs/story1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-26.807692" vertical-offset="0" max-vertical-offset="833">
+            <state vertical-scroll-proportion="0.0" vertical-offset="697" max-vertical-offset="833">
               <caret line="41" column="92" selection-start-line="41" selection-start-column="92" selection-end-line="41" selection-end-column="92" />
               <folding />
             </state>
@@ -111,7 +89,7 @@
       <file leaf-file-name="home.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/madlibs/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="187">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="187">
               <caret line="0" column="30" selection-start-line="0" selection-start-column="30" selection-end-line="0" selection-end-column="30" />
               <folding />
             </state>
@@ -121,7 +99,7 @@
       <file leaf-file-name="story3.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/madlibs/story3.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.65384614" vertical-offset="0" max-vertical-offset="833">
+            <state vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="833">
               <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
               <folding />
             </state>
@@ -131,7 +109,7 @@
       <file leaf-file-name="story4.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/madlibs/story4.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.65384614" vertical-offset="0" max-vertical-offset="646">
+            <state vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="646">
               <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
               <folding />
             </state>
@@ -159,24 +137,23 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
-    <option name="changedFiles">
+    <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/madlibs/home.html" />
         <option value="$PROJECT_DIR$/madlibs/css/mycss.css" />
-        <option value="$PROJECT_DIR$/madlibs/story1.html" />
-        <option value="$PROJECT_DIR$/madlibs/story3.html" />
-        <option value="$PROJECT_DIR$/madlibs/story4.html" />
-        <option value="$PROJECT_DIR$/madlibs/story2.html" />
+        <option value="$PROJECT_DIR$/madlibs/scripts/myjs.js" />
         <option value="$PROJECT_DIR$/madlibs/index.html" />
       </list>
     </option>
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 5.4" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="744" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -250,6 +227,46 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="scripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="alvik1994.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="alvik1994.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="madlibs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="materialize-v0.96.1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="materialize" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="alvik1994.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="alvik1994.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="madlibs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -261,7 +278,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/madlibs" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="recentsLimit" value="5" />
     <property name="restartRequiresConfirmation" value="true" />
   </component>
@@ -289,28 +306,28 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
+    <frame x="-9" y="-9" width="1938" height="1050" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24962178" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2529412" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32843137" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32815966" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -336,8 +353,61 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/madlibs/css/mycss.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="25" max-vertical-offset="1326">
+        <state vertical-scroll-proportion="0.0" vertical-offset="790" max-vertical-offset="1326">
           <caret line="49" column="8" selection-start-line="49" selection-start-column="8" selection-end-line="49" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/madlibs/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2669">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#0;n#div#0;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/madlibs/story1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="697" max-vertical-offset="833">
+          <caret line="41" column="92" selection-start-line="41" selection-start-column="92" selection-end-line="41" selection-end-column="92" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/madlibs/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="187">
+          <caret line="0" column="30" selection-start-line="0" selection-start-column="30" selection-end-line="0" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/madlibs/story3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="833">
+          <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/madlibs/story4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="646">
+          <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/madlibs/story2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="1190">
+          <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
           <folding />
         </state>
       </provider>
@@ -352,7 +422,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/madlibs/story3.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.65384614" vertical-offset="0" max-vertical-offset="833">
+        <state vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="833">
           <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
           <folding />
         </state>
@@ -360,8 +430,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/madlibs/story4.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.65384614" vertical-offset="0" max-vertical-offset="646">
+        <state vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="646">
           <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/madlibs/story1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="697" max-vertical-offset="833">
+          <caret line="41" column="92" selection-start-line="41" selection-start-column="92" selection-end-line="41" selection-end-column="92" />
           <folding />
         </state>
       </provider>
@@ -374,22 +452,46 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/madlibs/story1.html">
+    <entry file="file://$PROJECT_DIR$/madlibs/css/mycss.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-26.807692" vertical-offset="0" max-vertical-offset="833">
-          <caret line="41" column="92" selection-start-line="41" selection-start-column="92" selection-end-line="41" selection-end-column="92" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1394">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/madlibs/materialize-v0.96.1/materialize/js/materialize.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.0017858" vertical-offset="561" max-vertical-offset="102493">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/madlibs/scripts/myjs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1564">
+          <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/madlibs/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.45639536" vertical-offset="1186" max-vertical-offset="2669">
-          <caret line="79" column="38" selection-start-line="79" selection-start-column="38" selection-end-line="79" selection-end-column="38" />
-          <folding />
+        <state vertical-scroll-proportion="0.2797075" vertical-offset="0" max-vertical-offset="1513">
+          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#0;n#div#0;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
   </component>
 </project>
-
