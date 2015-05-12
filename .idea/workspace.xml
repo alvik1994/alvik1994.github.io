@@ -2,18 +2,47 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d1a19e3-ece5-4bfb-b2b6-6749d39e5003" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\Alvi\Documents\alvik1994.github.io\LICENSE" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\Alvi\Documents\alvik1994.github.io\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Alvi\Documents\alvik1994.github.io\home.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Alvi\Documents\alvik1994.github.io\css\bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Alvi\Documents\alvik1994.github.io\css\bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Alvi\Documents\alvik1994.github.io\css\materialize.min.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Alvi\Documents\alvik1994.github.io\css\mycss.css" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\Alvi\Documents\alvik1994.github.io\images\paper.png" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\Alvi\Documents\alvik1994.github.io\images\paper2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Alvi\Documents\alvik1994.github.io\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Alvi\Documents\alvik1994.github.io\story1.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Alvi\Documents\alvik1994.github.io\story3.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Alvi\Documents\alvik1994.github.io\story4.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/madlibs/index.html" afterPath="$PROJECT_DIR$/madlibs/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/madlibs/css/mycss.css" afterPath="$PROJECT_DIR$/madlibs/css/mycss.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/madlibs/scripts/myjs.js" afterPath="$PROJECT_DIR$/madlibs/scripts/myjs.js" />
+      <change type="DELETED" beforePath="C:\Users\Alvi\Documents\alvik1994.github.io\materialize-v0.96.1\materialize\LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Alvi\Documents\alvik1994.github.io\materialize-v0.96.1\materialize\README.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Alvi\Documents\alvik1994.github.io\materialize-v0.96.1\materialize\css\materialize.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Alvi\Documents\alvik1994.github.io\materialize-v0.96.1\materialize\css\materialize.min.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Alvi\Documents\alvik1994.github.io\materialize-v0.96.1\materialize\font\material-design-icons\LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Alvi\Documents\alvik1994.github.io\materialize-v0.96.1\materialize\font\material-design-icons\Material-Design-Icons.eot" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Alvi\Documents\alvik1994.github.io\materialize-v0.96.1\materialize\font\material-design-icons\Material-Design-Icons.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Alvi\Documents\alvik1994.github.io\materialize-v0.96.1\materialize\font\material-design-icons\Material-Design-Icons.ttf" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Alvi\Documents\alvik1994.github.io\materialize-v0.96.1\materialize\font\material-design-icons\Material-Design-Icons.woff" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Alvi\Documents\alvik1994.github.io\materialize-v0.96.1\materialize\font\material-design-icons\Material-Design-Icons.woff2" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Alvi\Documents\alvik1994.github.io\materialize-v0.96.1\materialize\font\roboto\Roboto-Bold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Alvi\Documents\alvik1994.github.io\materialize-v0.96.1\materialize\font\roboto\Roboto-Bold.woff" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Alvi\Documents\alvik1994.github.io\materialize-v0.96.1\materialize\font\roboto\Roboto-Bold.woff2" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Alvi\Documents\alvik1994.github.io\materialize-v0.96.1\materialize\font\roboto\Roboto-Light.ttf" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Alvi\Documents\alvik1994.github.io\materialize-v0.96.1\materialize\font\roboto\Roboto-Light.woff" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Alvi\Documents\alvik1994.github.io\materialize-v0.96.1\materialize\font\roboto\Roboto-Light.woff2" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Alvi\Documents\alvik1994.github.io\materialize-v0.96.1\materialize\font\roboto\Roboto-Medium.ttf" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Alvi\Documents\alvik1994.github.io\materialize-v0.96.1\materialize\font\roboto\Roboto-Medium.woff" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Alvi\Documents\alvik1994.github.io\materialize-v0.96.1\materialize\font\roboto\Roboto-Medium.woff2" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Alvi\Documents\alvik1994.github.io\materialize-v0.96.1\materialize\font\roboto\Roboto-Regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Alvi\Documents\alvik1994.github.io\materialize-v0.96.1\materialize\font\roboto\Roboto-Regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Alvi\Documents\alvik1994.github.io\materialize-v0.96.1\materialize\font\roboto\Roboto-Regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Alvi\Documents\alvik1994.github.io\materialize-v0.96.1\materialize\font\roboto\Roboto-Thin.ttf" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Alvi\Documents\alvik1994.github.io\materialize-v0.96.1\materialize\font\roboto\Roboto-Thin.woff" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Alvi\Documents\alvik1994.github.io\materialize-v0.96.1\materialize\font\roboto\Roboto-Thin.woff2" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Alvi\Documents\alvik1994.github.io\materialize-v0.96.1\materialize\js\materialize.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Alvi\Documents\alvik1994.github.io\materialize-v0.96.1\materialize\js\materialize.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Alvi\Documents\alvik1994.github.io\scripts\angular-route.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Alvi\Documents\alvik1994.github.io\scripts\angular.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Alvi\Documents\alvik1994.github.io\scripts\angular.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Alvi\Documents\alvik1994.github.io\scripts\bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Alvi\Documents\alvik1994.github.io\scripts\jquery-1.11.2.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Alvi\Documents\alvik1994.github.io\scripts\materialize.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Alvi\Documents\alvik1994.github.io\scripts\myjs.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="alvik1994.github.io.iws" />
@@ -49,10 +78,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/madlibs/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.2797075" vertical-offset="0" max-vertical-offset="1513">
+            <state vertical-scroll-proportion="-5.8846154" vertical-offset="0" max-vertical-offset="1513">
               <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
               <folding>
                 <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -60,6 +89,16 @@
                 <element signature="n#style#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.24862888" vertical-offset="0" max-vertical-offset="547">
+              <caret line="8" column="69" selection-start-line="8" selection-start-column="69" selection-end-line="8" selection-end-column="69" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -142,6 +181,7 @@
         <option value="$PROJECT_DIR$/madlibs/css/mycss.css" />
         <option value="$PROJECT_DIR$/madlibs/scripts/myjs.js" />
         <option value="$PROJECT_DIR$/madlibs/index.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -213,64 +253,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="alvik1994.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="alvik1994.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="madlibs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scripts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="alvik1994.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="alvik1994.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="madlibs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="materialize-v0.96.1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="materialize" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="alvik1994.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="alvik1994.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="madlibs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -281,12 +263,33 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="recentsLimit" value="5" />
     <property name="restartRequiresConfirmation" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
   </component>
   <component name="RunManager" selected="PHP Built-in Web Server.Unnamed">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
     <configuration default="true" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server">
       <method />
     </configuration>
-    <configuration default="false" name="Unnamed" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" document_root="$PROJECT_DIR$/madlibs">
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="false" name="Unnamed" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" document_root="$PROJECT_DIR$">
       <RunnerSettings RunnerId="PhpRunner" />
       <ConfigurationWrapper RunnerId="PhpRunner" />
       <method />
@@ -306,7 +309,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1050" extended-state="7" />
+    <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -482,7 +485,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/madlibs/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2797075" vertical-offset="0" max-vertical-offset="1513">
+        <state vertical-scroll-proportion="-5.8846154" vertical-offset="0" max-vertical-offset="1513">
           <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
           <folding>
             <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -490,6 +493,14 @@
             <element signature="n#style#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.24862888" vertical-offset="0" max-vertical-offset="547">
+          <caret line="8" column="69" selection-start-line="8" selection-start-column="69" selection-end-line="8" selection-end-column="69" />
+          <folding />
         </state>
       </provider>
     </entry>
