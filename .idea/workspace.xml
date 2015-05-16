@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d1a19e3-ece5-4bfb-b2b6-6749d39e5003" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/madlibs/scripts/myjs.js" afterPath="$PROJECT_DIR$/madlibs/scripts/myjs.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/madlibs/views/story2.html" afterPath="$PROJECT_DIR$/madlibs/views/story2.html" />
     </list>
     <ignored path="alvik1994.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -62,10 +62,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="myjs.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="myjs.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/madlibs/scripts/myjs.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.045082" vertical-offset="136" max-vertical-offset="1564">
+            <state vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="1564">
               <caret line="38" column="79" selection-start-line="38" selection-start-column="79" selection-end-line="38" selection-end-column="79" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
@@ -114,11 +114,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="story2.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="story2.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/madlibs/views/story2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.0357144" vertical-offset="0" max-vertical-offset="1190">
-              <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+            <state vertical-scroll-proportion="0.84158415" vertical-offset="204" max-vertical-offset="1190">
+              <caret line="32" column="59" selection-start-line="32" selection-start-column="59" selection-end-line="32" selection-end-column="59" />
               <folding />
             </state>
           </provider>
@@ -142,10 +142,10 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/madlibs/story2.html" />
         <option value="$PROJECT_DIR$/madlibs/views/story1.html" />
-        <option value="$PROJECT_DIR$/madlibs/views/story2.html" />
         <option value="$PROJECT_DIR$/madlibs/views/story3.html" />
         <option value="$PROJECT_DIR$/madlibs/views/story4.html" />
         <option value="$PROJECT_DIR$/madlibs/scripts/myjs.js" />
+        <option value="$PROJECT_DIR$/madlibs/views/story2.html" />
       </list>
     </option>
   </component>
@@ -301,7 +301,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="7" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -638,14 +638,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/madlibs/views/story2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.0357144" vertical-offset="0" max-vertical-offset="1190">
-          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/madlibs/views/story4.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-9.153846" vertical-offset="0" max-vertical-offset="646">
@@ -664,11 +656,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/madlibs/scripts/myjs.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.045082" vertical-offset="136" max-vertical-offset="1564">
+        <state vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="1564">
           <caret line="38" column="79" selection-start-line="38" selection-start-column="79" selection-end-line="38" selection-end-column="79" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/madlibs/views/story2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.84158415" vertical-offset="204" max-vertical-offset="1190">
+          <caret line="32" column="59" selection-start-line="32" selection-start-column="59" selection-end-line="32" selection-end-column="59" />
+          <folding />
         </state>
       </provider>
     </entry>
