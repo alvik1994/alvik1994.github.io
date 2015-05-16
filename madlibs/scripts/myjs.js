@@ -16,12 +16,7 @@ jq(document).ready(function(){
         jq('#stories').css("width","auto");
     });
     jq('ul.tabs').tabs();
-    var $currentTab = jq("a[href='"+location.hash+"']").data('target');
 
-    if ($currentTab){
-        $currentTab=$currentTab.substring(1,$currentTab.length);
-        jq('ul.tabs').tabs('select_tab', $currentTab);
-    }
     jq('.indicator').invisible();
     jq('ul.tabs').on('click',function(){
         if (jq('.indicator').css("visibility")==="hidden"){
@@ -41,6 +36,11 @@ jq(document).ready(function(){
 angular.module("app", ['ngRoute'])
     .controller('StoryCtrl',['$scope',function($scope){
         $scope.load = function() {
+            var $currentTab = jq("a[href='"+location.hash+"']").data('target');
+            if ($currentTab){
+                $currentTab=$currentTab.substring(1,$currentTab.length);
+                jq('ul.tabs').tabs('select_tab', $currentTab);
+            }
             jq('.generate').on('click',function(){
                 var showText = true;
                 jq('.validate').each(function(){
