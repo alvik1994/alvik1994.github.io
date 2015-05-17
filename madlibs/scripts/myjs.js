@@ -16,7 +16,6 @@ jq(document).ready(function(){
         jq('#stories').css("width","auto");
     });
     jq('ul.tabs').tabs();
-
     jq('.indicator').invisible();
     jq('ul.tabs').on('click',function(){
         if (jq('.indicator').css("visibility")==="hidden"){
